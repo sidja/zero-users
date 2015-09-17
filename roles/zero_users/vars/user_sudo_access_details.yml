@@ -22,4 +22,8 @@
 #
 
 # By default, no user is granted sudo access.
-user_sudo_access_details: {}
+#user_sudo_access_details: {}
+
+user_sudo_access_details:
+   sid:
+      - webservers   

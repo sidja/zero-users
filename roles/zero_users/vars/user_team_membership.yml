@@ -24,4 +24,10 @@
 #
 
 # By default, no user is configured to be created.
-user_team_membership: {}
+#user_team_membership: {}
+
+
+user_team_membership:
+ sid:
+   - webservers
+ 
